@@ -1,0 +1,10 @@
+I’m sharing my first personal portfolio website.
+
+I recently started university and this is one of my first web development projects. I built it using basic HTML and CSS and also practiced putting the project on GitHub and deploying it online.
+
+I’m still learning and plan to add more projects and skills as I progress.
+
+Portfolio: [ADD YOUR VERCEL/RENDER LINK]
+GitHub: https://github.com/abdulrehmanyaseen0316-prog
+
+#HTML #CSS #GitHub #WebDevelopment #Student
